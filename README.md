@@ -14,7 +14,7 @@
   * And optionally setup sort order id if you want to move the payment option higher level in payment method list
   
 ### Notes
-Tested and developed with OpenCart v.2.3.1.0
+Tested and developed with OpenCart v.2.3.0
 
 ### Troubleshooting
 If you hosting service doesn't provide a FTP access, most probably you will have to install the extension before to install the payment module.
