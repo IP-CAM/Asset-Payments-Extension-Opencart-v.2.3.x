@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (AssetPayments)';
+$_['text_title'] = 'Оплатить картой Visa/MasterCard (AssetPayments)';
