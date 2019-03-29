@@ -11,7 +11,7 @@ $_['text_card']			 = 'Credit Card';
 $_['text_assetpayments']		 = '<a target="_blank" href="https://www.assetpayments.com"><img src="view/image/payment/assetpayments.png" alt="ASSETPAYMENTS" title="ASSETPAYMENTS" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_merchant']	 = 'Merchant ID';
+$_['entry_merchant']	 = 'Merchant ID (ID = 19)';
 $_['entry_signature']	 = 'Secret Key';
 $_['entry_type']		 = 'Template ID';
 $_['entry_total']		 = 'Total';
