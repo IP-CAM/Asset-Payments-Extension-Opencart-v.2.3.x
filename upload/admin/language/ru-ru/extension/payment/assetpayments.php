@@ -13,7 +13,7 @@ $_['text_assetpayments']		 = '<a target="_blank" href="https://www.assetpayments
 // Entry
 $_['entry_merchant']	 = 'ID Продавца';
 $_['entry_signature']	 = 'Секретный ключ';
-$_['entry_type']		 = 'ID Шаблона';
+$_['entry_type']		 = 'ID Шаблона (ID = 19)';
 $_['entry_total']		 = 'Минимальная стоимость заказа';
 $_['entry_order_status']            = 'Статус заказа после оформления (при переходе на оплату)';
 $_['entry_order_success_status']    = 'Статус заказа успешного платежа';
