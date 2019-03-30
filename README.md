@@ -10,7 +10,7 @@
   * Secret key
   * Template ID 
   * Order statuses for successfuly processed payment
-  * Enabled the module
+  * Enable the module
   * And optionally setup sort order id if you want to move the payment option higher level in payment method list
   
 ### Notes
