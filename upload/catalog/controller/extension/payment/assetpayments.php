@@ -89,7 +89,7 @@ class ControllerExtensionPaymentAssetPayments extends Controller {
 		} 
 		if ($status == 2 && $sign == $signature) {
 			$this->load->model('checkout/order');
-			$this->model_checkout_order->addOrderHistory($order_id, $this->config->get('assetpayments_order_status_id'),'Payment FAILED TransactionID: ' .$transactionId);		
+			$this->model_checkout_order->addOrderHistory($order_id, $this->config->get('assetpayments_order_failure_status_id'),'Payment FAILED TransactionID: ' .$transactionId);		
 		}
 	}
 }
