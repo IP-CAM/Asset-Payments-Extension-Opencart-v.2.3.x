@@ -1,4 +1,4 @@
-## opencart-2-payment-module
+## opencart-2.3-payment-module
 
 ### Installation
 
