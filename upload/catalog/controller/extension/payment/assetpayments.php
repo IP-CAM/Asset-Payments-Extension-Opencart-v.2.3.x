@@ -54,7 +54,6 @@ class ControllerExtensionPaymentAssetPayments extends Controller {
             		'Currency' => $order_info['currency_code'],
 			'CustomMerchantInfo' => 'OpenCart: ' .''. VERSION,
             		'AssetPaymentsKey' => $this->config->get('assetpayments_merchant'),
-			'SkipCheckout' => true,
 			'Products' => $request['Products']
           );
 		//var_dump ($send_data);
